@@ -1,5 +1,6 @@
 # 💫 About Me:
-clean, efficient, and scalable web applications. I enjoy solving problems, learning new technologies, and transforming ideas into real, high-quality digital products.<br>I focus on writing clean code, delivering reliable solutions, and constantly improving my skills to stay up-to-date in the ever-evolving tech world.
+I’m Islam Khaled, a dedicated Software Engineer and Full Stack Developer with a strong passion for building clean, efficient, and scalable web applications. I enjoy solving problems, learning new technologies, and transforming ideas into real, high-quality digital products.
+I focus on writing clean code, delivering reliable solutions, and constantly improving my skills to stay up-to-date in the ever-evolving tech world.
 
 
 # 💻 Tech Stack:
